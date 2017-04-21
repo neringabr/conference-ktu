@@ -4,6 +4,7 @@ Morfologiškai anotuotą tekstyną MATAS galima parsisiųsti iš CLARIN-LT saugy
 https://clarin.vdu.lt/xmlui/handle/99999/9
 
 Zipf_R_kodas.R -- R skaičiavimų kodas;
+Sentence_structure_slides -- skaidrės anglų kalba.
 
 Literatūra:
 1) Baayen R. H. Word Frequency Distributions. Nijmegen universitetas. Kluwer Academic
