@@ -10,6 +10,6 @@ Sentence_structure_slides.pdf -- skaidrės anglų kalba.
 Literatūra:
 1) Baayen R. H. Word Frequency Distributions. Nijmegen universitetas. Kluwer Academic
    Publishers. Nyderlandai, 2001. 333 p.
-2) 1928 Condon E. - Statistics of Vocabulary.pdf -- straipsnis, kuriame Zipfo dėsnis pirmą kartą atvaizduotas grafiškai;
+2) Condon E. Statistics of Vocabulary [interaktyvus]. Straipsnis. Niujorkas, 1928. 1 p. goo.gl/yJgiZ8
 3) Piaseckienė K. Statistiniai metodai lietuvių kalbos sudėtingumo analizėje [interaktyvus]. 
    Daktaro disertacija. Vilnius, 2014. 124 p. http://www.mii.lt/files/mii_dis_2014_piaseckiene.pdf
